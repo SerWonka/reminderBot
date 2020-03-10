@@ -1,0 +1,18 @@
+{
+  "name": "dushnobot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "node-cron": "2.0.3",
+    "node-telegram-bot-api": "^0.40.0",
+    "telegraf": "3.36.0",
+    "telegraf-inline-menu": "4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
