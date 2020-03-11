@@ -1,22 +1,15 @@
-const Telegraf = require('telegraf');
+const nodemon = require('nodemon');
 
-const bot = new Telegraf(process.env.TELEGRAM_KEY); 
+nodemon({
+    script: 'components/app.js',
+    ext: 'js json'
+});
 
-
-bot.start((ctx) => {
-    ctx.reply('Здарово-ствуй я вроде как бот, и вроде как буду оповещять о том что у вас тут душно (а тут реально душо, ага)')
-    const cron = require('node-cron');
-
-    cron.schedule('45 11 * * *', () => {
-        ctx.reply('Надо проветрить!!!');
-    });
-
-    cron.schedule('45 14 * * *', () => {
-        ctx.reply('Надо проветрить!!!');
-    });
-
-    cron.schedule('45 16 * * *', () => {
-        ctx.reply('Надо проветрить!!!');
-    });
-})
-bot.launch()
+nodemon.on('start', function () {
+    console.log('App has started');
+}).on('quit', function () {
+    console.log('App has quit');
+    process.exit();
+}).on('restart', function (files) {
+    console.log('App restarted due to: ', files);
+});

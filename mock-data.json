@@ -1,0 +1,350 @@
+{
+    "meta": {
+        "code": 200
+    },
+    "response": {
+        "holidays": [
+            {
+                "name": "New Year's Day",
+                "description": "New Year’s Day is annually celebrated as a day off work in the Ukraine on January 1, marking the start of the New Year.",
+                "country": {
+                    "id": "ua",
+                    "name": "Ukraine"
+                },
+                "date": {
+                    "iso": "2020-01-01",
+                    "datetime": {
+                        "year": 2020,
+                        "month": 1,
+                        "day": 1
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Orthodox Christmas Day",
+                "description": "Christmas Day is a public holiday in Ukraine on January 7, a date based on the Orthodox Christian Church’s calendar.",
+                "country": {
+                    "id": "ua",
+                    "name": "Ukraine"
+                },
+                "date": {
+                    "iso": "2020-01-07",
+                    "datetime": {
+                        "year": 2020,
+                        "month": 1,
+                        "day": 7
+                    }
+                },
+                "type": [
+                    "National holiday",
+                    "Orthodox"
+                ],
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "International Women's Day",
+                "description": "International Women’s Day is a public holiday in Ukraine, celebrated on or around March 8 each year.",
+                "country": {
+                    "id": "ua",
+                    "name": "Ukraine"
+                },
+                "date": {
+                    "iso": "2020-03-08",
+                    "datetime": {
+                        "year": 2020,
+                        "month": 3,
+                        "day": 8
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "International Women's Day observed",
+                "description": "International Women’s Day is a public holiday in Ukraine, celebrated on or around March 8 each year.",
+                "country": {
+                    "id": "ua",
+                    "name": "Ukraine"
+                },
+                "date": {
+                    "iso": "2020-03-09",
+                    "datetime": {
+                        "year": 2020,
+                        "month": 3,
+                        "day": 9
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Orthodox Easter Day",
+                "description": "Easter is both a religious and a national holiday in Ukraine. The Easter date is based on the Orthodox Christian church’s calendar.",
+                "country": {
+                    "id": "ua",
+                    "name": "Ukraine"
+                },
+                "date": {
+                    "iso": "2020-04-19",
+                    "datetime": {
+                        "year": 2020,
+                        "month": 4,
+                        "day": 19
+                    }
+                },
+                "type": [
+                    "National holiday",
+                    "Orthodox"
+                ],
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Orthodox Easter Day holiday",
+                "description": "Orthodox Easter Day holiday is a national holiday and Orthodox holiday in Ukraine",
+                "country": {
+                    "id": "ua",
+                    "name": "Ukraine"
+                },
+                "date": {
+                    "iso": "2020-04-20",
+                    "datetime": {
+                        "year": 2020,
+                        "month": 4,
+                        "day": 20
+                    }
+                },
+                "type": [
+                    "National holiday",
+                    "Orthodox"
+                ],
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Labor Day",
+                "description": "Labor Day is a public holiday across the Ukraine, celebrated on or around May 1 each year.",
+                "country": {
+                    "id": "ua",
+                    "name": "Ukraine"
+                },
+                "date": {
+                    "iso": "2020-05-01",
+                    "datetime": {
+                        "year": 2020,
+                        "month": 5,
+                        "day": 1
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Victory Day / Memorial Day",
+                "description": "Victory Day in Ukraine is celebrated as a public holiday on May 9 to commemorate the defeat of the Nazis in the Second World War.",
+                "country": {
+                    "id": "ua",
+                    "name": "Ukraine"
+                },
+                "date": {
+                    "iso": "2020-05-09",
+                    "datetime": {
+                        "year": 2020,
+                        "month": 5,
+                        "day": 9
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Victory Day / Memorial Day observed",
+                "description": "Victory Day in Ukraine is celebrated as a public holiday on May 9 to commemorate the defeat of the Nazis in the Second World War.",
+                "country": {
+                    "id": "ua",
+                    "name": "Ukraine"
+                },
+                "date": {
+                    "iso": "2020-05-11",
+                    "datetime": {
+                        "year": 2020,
+                        "month": 5,
+                        "day": 11
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Orthodox Pentecost",
+                "description": "Holy Trinity Day, or Triytsya in Ukrainian, is celebrated widely in Ukraine and is a day off work for Ukrainians.",
+                "country": {
+                    "id": "ua",
+                    "name": "Ukraine"
+                },
+                "date": {
+                    "iso": "2020-06-07",
+                    "datetime": {
+                        "year": 2020,
+                        "month": 6,
+                        "day": 7
+                    }
+                },
+                "type": [
+                    "National holiday",
+                    "Orthodox"
+                ],
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Orthodox Pentecost holiday",
+                "description": "Holy Trinity Day, or Triytsya in Ukrainian, is celebrated widely in Ukraine and is a day off work for Ukrainians.",
+                "country": {
+                    "id": "ua",
+                    "name": "Ukraine"
+                },
+                "date": {
+                    "iso": "2020-06-08",
+                    "datetime": {
+                        "year": 2020,
+                        "month": 6,
+                        "day": 8
+                    }
+                },
+                "type": [
+                    "National holiday",
+                    "Orthodox"
+                ],
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Constitution Day",
+                "description": "Ukraine’s Constitution Day is a public holiday on June 28 to celebrate the country’s constitution.",
+                "country": {
+                    "id": "ua",
+                    "name": "Ukraine"
+                },
+                "date": {
+                    "iso": "2020-06-28",
+                    "datetime": {
+                        "year": 2020,
+                        "month": 6,
+                        "day": 28
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Constitution Day observed",
+                "description": "Ukraine’s Constitution Day is a public holiday on June 28 to celebrate the country’s constitution.",
+                "country": {
+                    "id": "ua",
+                    "name": "Ukraine"
+                },
+                "date": {
+                    "iso": "2020-06-29",
+                    "datetime": {
+                        "year": 2020,
+                        "month": 6,
+                        "day": 29
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Independence Day",
+                "description": "Ukraine’s Independence Day is annually celebrated on August 24 to mark the anniversary of the country’s declaration of independence in 1991.",
+                "country": {
+                    "id": "ua",
+                    "name": "Ukraine"
+                },
+                "date": {
+                    "iso": "2020-08-24",
+                    "datetime": {
+                        "year": 2020,
+                        "month": 8,
+                        "day": 24
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Defenders' Day",
+                "description": "Defenders’ Day is a national Ukrainian holiday that celebrates local heroes and supports nationalism.",
+                "country": {
+                    "id": "ua",
+                    "name": "Ukraine"
+                },
+                "date": {
+                    "iso": "2020-10-14",
+                    "datetime": {
+                        "year": 2020,
+                        "month": 10,
+                        "day": 14
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "locations": "All",
+                "states": "All"
+            },
+            {
+                "name": "Catholic Christmas Day",
+                "description": "Christmas Day is one of the biggest Christian celebrations and falls on December 25 in the Gregorian calendar.",
+                "country": {
+                    "id": "ua",
+                    "name": "Ukraine"
+                },
+                "date": {
+                    "iso": "2020-12-25",
+                    "datetime": {
+                        "year": 2020,
+                        "month": 12,
+                        "day": 25
+                    }
+                },
+                "type": [
+                    "National holiday"
+                ],
+                "locations": "All",
+                "states": "All"
+            }
+        ]
+    }
+}

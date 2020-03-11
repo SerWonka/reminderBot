@@ -4,12 +4,23 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "date-fns": "2.10.0",
+    "dotenv": "8.2.0",
     "node-cron": "2.0.3",
     "node-telegram-bot-api": "^0.40.0",
     "telegraf": "3.36.0",
     "telegraf-inline-menu": "4.0.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "nodemon": "2.0.2"
+  },
+  "nodemonConfig": {
+    "ignore": [
+      "test/*",
+      "docs/*"
+    ],
+    "delay": "2500"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
